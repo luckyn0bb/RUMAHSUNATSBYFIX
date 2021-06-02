@@ -960,7 +960,7 @@ button#sidebarCollapse {
 .feature_box:focus h4,
 .feature_box:hover p,
 .feature_box:focus p {
-	color: #fff;
+	color: black;
 }
 
 .feature_box:hover img.default-block,
@@ -3191,3 +3191,24 @@ footer.footer-box .heading_main h2 {
 	}
 	.review-stars ul li i.inactive { color: yellow;}
 	.star:after { content: "\2605"; }
+
+	.review-btn {
+		text-align: center;
+		justify-content: center;
+	
+	}
+
+	.metode-center {
+		text-align: center;
+	}
+	.offer_box {
+		width:300px;
+		height:auto;
+		text-align: center;
+		justify-content:center;
+		display: inline-block;
+
+	}
+	.metode{
+		padding-top:100px ;
+	}
